@@ -1,0 +1,40 @@
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe.config
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.pdb
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Form1.resources
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Properties.Resources.resources
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.exe
+C:\Users\kevin\source\repos\KevinLinAdvancedCalculator\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.pdb
+D:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe.config
+D:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe
+D:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.pdb
+D:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csprojResolveAssemblyReference.cache
+D:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Form1.resources
+D:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Properties.Resources.resources
+D:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csproj.GenerateResource.Cache
+D:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csproj.CoreCompileInputs.cache
+D:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.exe
+D:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.pdb
+E:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe.config
+E:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe
+E:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.pdb
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csprojResolveAssemblyReference.cache
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.about.resources
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Properties.Resources.resources
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csproj.GenerateResource.Cache
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csproj.CoreCompileInputs.cache
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.exe
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.pdb
+E:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Form1.resources
+F:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe.config
+F:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.exe
+F:\visual studios\KevinLinAdvancedCalculator\bin\Debug\KevinLinAdvancedCalculator.pdb
+F:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csprojAssemblyReference.cache
+F:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.about.resources
+F:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Form1.resources
+F:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.Properties.Resources.resources
+F:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.csproj.GenerateResource.cache
+F:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.exe
+F:\visual studios\KevinLinAdvancedCalculator\obj\Debug\KevinLinAdvancedCalculator.pdb
